@@ -27,8 +27,9 @@ Simple RULES:
    Thanks all. 
    
    <img src="ScreenShots/index.PNG">
-   <img src="ScreenShots/js.PNG">
    <img src="ScreenShots/style.PNG">
+   <img src="ScreenShots/js.PNG">
+  
    
   
    
